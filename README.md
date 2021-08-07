@@ -27,7 +27,7 @@ URL
 POST: http://localhost:8080/api/v2/url-curtas/salvar/idUsuario
 Retorna URL e a URL ja comprimida.
 
-DELETE: http:localhost:8080/api/v2/url-curtas/deletarLink/idLink
+DELETE: http://localhost:8080/api/v2/url-curtas/deletarLink/idLink
 Retorna 200 Ok com a url já deletada do banco de dados.
 
 GET: http://localhost:8080/api/v2/url-curtas/decode/linkCurto
